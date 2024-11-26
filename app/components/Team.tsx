@@ -38,7 +38,7 @@ const Team = () => {
             <div className="text-center text-lg">Medical Assistant</div>
             <div className="flex justify-center gap-4 mt-2">
               <Image src={"/linkedin.png"} alt="LinkedIn" width={24} height={24} />
-              <Image src={"/twitter.png"} alt="Twitter" width={24} height={24} />
+              <Image src={"/Twitter.png"} alt="Twitter" width={24} height={24} />
               <Image src={"/ball.png"} alt="Ball" width={24} height={24} />
             </div>
           </div>
@@ -54,7 +54,7 @@ const Team = () => {
             <div className="text-center text-lg">Web Designer</div>
             <div className="flex justify-center gap-4 mt-2">
               <Image src={"/linkedin.png"} alt="LinkedIn" width={24} height={24} />
-              <Image src={"/twitter.png"} alt="Twitter" width={24} height={24} />
+              <Image src={"/Twitter.png"} alt="Twitter" width={24} height={24} />
               <Image src={"/ball.png"} alt="Ball" width={24} height={24} />
             </div>
           </div>
@@ -66,7 +66,7 @@ const Team = () => {
             <div className="text-center text-lg">President of Sales</div>
             <div className="flex justify-center gap-4 mt-2">
               <Image src={"/linkedin.png"} alt="LinkedIn" width={24} height={24} />
-              <Image src={"/twitter.png"} alt="Twitter" width={24} height={24} />
+              <Image src={"/Twitter.png"} alt="Twitter" width={24} height={24} />
               <Image src={"/ball.png"} alt="Ball" width={24} height={24} />
             </div>
           </div>
@@ -78,7 +78,7 @@ const Team = () => {
             <div className="text-center text-lg">Dog Trainer</div>
             <div className="flex justify-center gap-4 mt-2">
               <Image src={"/linkedin.png"} alt="LinkedIn" width={24} height={24} />
-              <Image src={"/twitter.png"} alt="Twitter" width={24} height={24} />
+              <Image src={"/Twitter.png"} alt="Twitter" width={24} height={24} />
               <Image src={"/ball.png"} alt="Ball" width={24} height={24} />
             </div>
           </div>
